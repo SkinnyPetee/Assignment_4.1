@@ -1,0 +1,7 @@
+
+
+/* using :nth-child pseudo selector */
+
+ul li:nth-child(3) {
+    background: blue;
+}
